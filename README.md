@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm souravkumar aka bala
 
-### 🚀 Software Developer | 🎮 Game Developer | 📊 Data Scientist | 🤖 Machine Learning Enthusiast
+### 🚀 Software Developer | 📊 Data Scientist | 🤖 Machine Learning Enthusiast
 
 ---
 
@@ -19,12 +19,11 @@ I'm a passionate software developer with expertise in **C++**, **Unity**, and **
 
 ### Programming Languages:
 - **C++**: STL, Multithreading, Optimization
-- **Python**: Data Science, Machine Learning, Automation
+- **Python**: Data Science, Machine Learning, 
 - **C#**: Unity Game Development
 
 ### Game Development:
-- **Unity**: 3D/2D Game Development, VR/AR, Physics Simulation
-
+- **Unity**: 3D/2D Game Development, VR/AR, 
 ### Data Science & ML:
 - **Libraries**: Pandas, NumPy, SciPy, Scikit-learn
 - **Deep Learning**: TensorFlow, PyTorch
