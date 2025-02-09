@@ -3,10 +3,16 @@
          height="45"
          width="45" /> 
          I'm Sourav Kumar aka Bala</h1>
-<br>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<table>
+  <tr>
+    <td height="400"></td>  <!-- Adjust this height to move image down -->
+  </tr>
+  <tr>
+    <td>
+      <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+    </td>
+  </tr>
+</table>
 
 
 # 💫 About Me :
