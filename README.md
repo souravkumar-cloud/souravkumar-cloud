@@ -3,15 +3,6 @@
          height="45"
          width="45" /> 
          I'm Sourav Kumar aka Bala</h1>
-          # 💫 About Me :
-         - 😄 Pronouns: He/His
-         - 🔭 I’m currently building [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
-         - 🌱 I’m currently learning more about ML/AI and App dev.
-         - 👯 I’m looking to collaborate on [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
-         - 🤔 I’m looking for help with my side projects.
-         - 💬 Ask me about React and DSA.
-         - 📫 How to reach me: Check social links below.
-         - ⚡ Fun fact: I spend almost 3 hours listening to songs every day and watch one South movie.
 <table>
   <tr>
     <td height="40"></td>  <!-- Adjust this height to move image down -->
@@ -23,7 +14,15 @@
   </tr>
 </table>
 
-
+## 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently building [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
+- 🌱 I’m currently learning more about ML/AI and App dev.
+- 👯 I’m looking to collaborate on [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
+- 🤔 I’m looking for help with my side projects.
+- 💬 Ask me about React and DSA.
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I spend almost 3 hours listening to songs every day and watch one South movie.
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-5084aa307/)
 
