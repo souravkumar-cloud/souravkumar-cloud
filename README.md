@@ -3,7 +3,10 @@
          height="45"
          width="45" /> 
          I'm Sourav Kumar aka Bala</h1>
-<table>
+
+
+## 💫 About Me :
+<table align="right">
   <tr>
     <td height="40"></td>  <!-- Adjust this height to move image down -->
   </tr>
@@ -13,8 +16,6 @@
     </td>
   </tr>
 </table>
-
-## 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
 - 🌱 I’m currently learning more about ML/AI and App dev.
