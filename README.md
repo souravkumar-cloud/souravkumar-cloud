@@ -8,7 +8,6 @@
     <td height="40"></td>  <!-- Adjust this height to move image down -->
   </tr>
   <tr>
-    <td>
          # 💫 About Me :
          - 😄 Pronouns: He/His
          - 🔭 I’m currently building [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
@@ -18,7 +17,6 @@
          - 💬 Ask me about React and DSA.
          - 📫 How to reach me: Check social links below.
          - ⚡ Fun fact: I spend almost 3 hours listening to songs every day and watch one South movie.
-    </td>
     <td>
       <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     </td>
