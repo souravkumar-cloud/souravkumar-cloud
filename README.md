@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm sourav kumar aka bala</h1>
+         
+<img margin='10px' align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -9,8 +11,6 @@
 - 🌱 I’m currently learning more about ML/AI and App dev .
 - 👯 I’m looking to collaborate on [ViaOne](https://github.com/souravkumar-cloud/ViaOne).
 - 🤔 I’m looking for help with my side projects.
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 💬 Ask me about react and DSA.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 3 hours listening to songs every day and watch one south movie.
