@@ -5,7 +5,7 @@
          I'm Sourav Kumar aka Bala</h1>
 <table>
   <tr>
-    <td height="400"></td>  <!-- Adjust this height to move image down -->
+    <td height="40"></td>  <!-- Adjust this height to move image down -->
   </tr>
   <tr>
     <td>
