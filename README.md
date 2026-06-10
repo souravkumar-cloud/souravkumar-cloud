@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" alt="ML Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="ML Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## 🧠 About Me
 
