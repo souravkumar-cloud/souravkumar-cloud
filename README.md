@@ -17,7 +17,10 @@
 ## 🚀 About Me
 
 🎓 I'm a **Software Engineering student** passionate about creating impactful digital solutions.  
-
+<div>
+  <img align="right" alt="Coding" width="380" 
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+style="margin-top: 120px;">
 🌱 Currently learning:
 - Advanced React
 - Backend Architecture
@@ -29,6 +32,8 @@
 - AI-Powered Applications
 - Open Source Contributions
 - Competitive Programming
+
+  </div>
 
 🎯 Goal:
 > To become a skilled software engineer and contribute to meaningful tech products.
